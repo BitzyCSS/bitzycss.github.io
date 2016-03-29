@@ -7,6 +7,11 @@
   margin-top: -10px;
 }
 
+.logo a {
+  text-decoration: none;
+  color: #333;
+}
+
 .headings .column-4 {
   height: 200px;
 }
