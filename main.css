@@ -24,3 +24,7 @@
 .placeholder p {
   padding: 10px 0;
 }
+
+.nested {
+  margin-top: 40px;
+}
