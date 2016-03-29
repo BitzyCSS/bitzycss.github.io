@@ -12,6 +12,10 @@
   color: #333;
 }
 
+.header {
+  margin-bottom: 50px;
+}
+
 .headings .column-4 {
   height: 200px;
 }
