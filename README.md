@@ -1,2 +1,2 @@
 # BitzyCSS
-a minimal css framework
+the website for BitzyCSS

@@ -1,0 +1,21 @@
+.logo h1 {
+  font-size: 4.5em;
+  color: #333;
+  letter-spacing: -1px;
+}
+.logo p {
+  margin-top: -10px;
+}
+
+.headings .column-4 {
+  height: 200px;
+}
+
+.placeholder {
+  background: rgba(0, 0, 0, 0.1);
+  text-align: center;
+  white-space: nowrap;
+}
+.placeholder p {
+  padding: 10px 0;
+}
