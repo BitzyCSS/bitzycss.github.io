@@ -12,6 +12,14 @@
   color: #333;
 }
 
+.inputs .column-4 {
+  height: 100px;
+}
+
+.inputs input, .inputs select {
+  margin: 0 30px 30px;
+}
+
 .header {
   margin-bottom: 50px;
 }
